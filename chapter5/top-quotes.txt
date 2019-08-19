@@ -1,0 +1,7 @@
+'There are only two kinds of programming languages: those people always bitch about and those nobody uses.' - Bjarne Stroustrup
+'The only way to learn a new programming language is by writing programs in it.' -Dennis Ritchie
+'A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.' – Alan Turing'There are only two kinds of programming languages: those people always bitch about and those nobody uses.' - Bjarne Stroustrup
+'The only way to learn a new programming language is by writing programs in it.' -Dennis Ritchie
+'A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.' – Alan Turingprogramming languages have a devious influence. They shape our thinking habits - Edsger W. Dijkstra
+programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program - Linus Torvalds
+A computer would deserve to be called intelligent if it could deceive a human into believing that it was human - Alan Turing

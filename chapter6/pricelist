@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<pricelist>
+	<product>
+		<name>TV</name>
+		<brand>Samsung</brand>
+		<price>25000</price>
+	</product>
+	<product>
+		<name>Computer</name>
+		<brand>Dell</brand>
+		<price>40000</price>
+	</product>
+	<product>
+		<name>Mobile</name>
+		<brand>Redmi</brand>
+		<price>15000</price>
+	</product>
+</pricelist>

@@ -1,0 +1,1 @@
+[{"product": "TV", "brand": "Samsung", "price": 25000}, {"product": "Computer", "brand": "Dell", "price": 40000}, {"product": "Mobile", "brand": "Redmi", "price": 15000}]
